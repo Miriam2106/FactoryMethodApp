@@ -1,3 +1,3 @@
 #FactoryMethodApp
 *********
-Short description about the project
+Sample application using FactoryMethodApp
